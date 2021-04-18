@@ -1,1 +1,2 @@
-Esta es la historia de como aprendo git perros.
+Esta es la historia de como aprendo git perros. 
+primer cambio
